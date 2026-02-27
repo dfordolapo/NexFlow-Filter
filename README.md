@@ -1,0 +1,1 @@
+A SaaS filter and search UI screen built with HTML and CSS, converted from a personal design (NexFlow). Features a sidebar filter panel with checkboxes, budget range slider, timeframe toggles, active filter pills, live search, and paginated results list.
